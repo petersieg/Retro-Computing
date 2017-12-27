@@ -1,5 +1,7 @@
 # Retro-Computing
 
+![Buch](https://github.com/petersieg/Retro-Computing/blob/master/buch.jpg)
+
 Buch Retro-Computing - 
 C64 und Amiga Warten, Reparieren, Erweitern und Projekte in diesem Umfeld
 
@@ -25,14 +27,14 @@ Frei nach dem ersten Star Trek Film - V'ger :-)
 
 Alle Informationen in diesem Buch werden ohne Ruecksicht auf einen evtl. Patentschutz veroeffentlicht. Warennamen werden 
 ohne Gewaehrleistung der freien Verwendbarkeit benutzt. Bei der Zusammenstellung von Texten und Abbildungen wurde mit groesster 
-Sorgfalt vorgegangen. Trotzdem koennen Fehler nicht ausgeschlossen werden. Verlag, Herausgeber und Autoren koennen für fehlerhafte 
+Sorgfalt vorgegangen. Trotzdem koennen Fehler nicht ausgeschlossen werden. Verlag, Herausgeber und Autoren koennen fÃ¼r fehlerhafte 
 Angaben und deren Folgen weder eine juristische Verantwortung, noch irgendeine Haftung uebernehmen.
 
 Genannte Hard- und Softwarebezeichnungen sind ggf. auch eingetragene Warenzeichen und sollten als solche betrachtet werden. 
 Die Rechte an verwendetem Bildmaterial liegt bei den jeweiligen Rechteinhabern.
 
 Sollte jemand gegen Inhalte etwas einzuwenden haben, bzw. Rechte verletzt werden, so bitte ich
-um Nachricht. Ich werde das dann bei berechtigten Einwaenden umgehend aendern. Für alle Erweiterungen/Veraenderungen
+um Nachricht. Ich werde das dann bei berechtigten Einwaenden umgehend aendern. FÃ¼r alle Erweiterungen/Veraenderungen
 ist der jeweilige Author verantwortlich. 
 
 Wenn euch das Buch gefaellt und ihr es honorieren moechtet:
