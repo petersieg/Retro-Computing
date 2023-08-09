@@ -37,8 +37,6 @@ Sollte jemand gegen Inhalte etwas einzuwenden haben, bzw. Rechte verletzt werden
 um Nachricht. Ich werde das dann bei berechtigten Einwaenden umgehend aendern. Für alle Erweiterungen/Veraenderungen
 ist der jeweilige Author verantwortlich. 
 
-Wenn euch das Buch gefaellt und ihr es honorieren moechtet:
-PayPal: peter (dot) sieg2 (at) gmx (dot) de
 
 Name				  Size (bytes)      md5sum
 ========================================================
